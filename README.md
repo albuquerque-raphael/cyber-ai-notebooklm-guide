@@ -1,5 +1,3 @@
-# cyber-ai-notebooklm-guide
-Guia de Pentest Assistido por IA desenvolvido para o Bootcamp de Cybersecurity &amp; AI da DIO, utilizando o Google NotebookLM para curadoria e análise de vulnerabilidades (OWASP, Nmap, Metasploit).
 # 🛡️ Cyber AI NotebookLM Guide
 
 Este repositório contém o projeto prático desenvolvido para o Bootcamp de Cybersecurity & AI da **DIO**. O objetivo é demonstrar o uso da Inteligência Artificial (Google NotebookLM) como ferramenta de apoio e curadoria de conhecimento em cenários de **Pentest Assistido por IA**.
