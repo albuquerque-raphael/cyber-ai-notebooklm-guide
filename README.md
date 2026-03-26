@@ -1,4 +1,5 @@
 # 🛡️ Cyber AI NotebookLM Guide
+![Preview do Projeto](./preview.png)
 
 Este repositório contém o projeto prático desenvolvido para o Bootcamp de Cybersecurity & AI da **DIO**. O objetivo é demonstrar o uso da Inteligência Artificial (Google NotebookLM) como ferramenta de apoio e curadoria de conhecimento em cenários de **Pentest Assistido por IA**.
 
